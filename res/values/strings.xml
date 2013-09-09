@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">日语跟我学</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Menu -->
+    <string name="github_label">SlidingMenu on GitHub</string>
+    <string name="github">GitHub</string>
+    <string name="menu_channel">频道</string>
+    <string name="menu_channel_lesson">课本</string>
+    <string name="menu_channel_grammar">语法</string>
+    <string name="menu_channel_word">单词</string>
+    <string name="menu_tool">工具</string>
+    <string name="menu_tool_word_note">单词本</string>
+    <string name="menu_tool_bookmark">书签</string>
+    <string name="menu_system">系统</string>
+    <string name="menu_system_setting">设置</string>
+    <string name="menu_system_exit">退出</string>
+
+    <!-- Lession -->
+    <string name="lession_book">日语教材</string>
+    <string name="lession_book_minna">みんなの日本語</string>
+    <string name="lession_book_progress">学习进度</string>
+
+</resources>
